@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<math.h>
-#in linux,please use gcc CircleArea.c -lm -o area
+//in linux,please use gcc CircleArea.c -lm -o area
 int main()
 {
     float a=0,b=0,c=0,s=0,area=0;
