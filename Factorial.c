@@ -3,7 +3,7 @@
 int main(void)
 {
     int fac(int);
-    int n=0,i=0;
+    int n=0;
      
     printf("please input the number:\n");
     scanf("%d",&n);
